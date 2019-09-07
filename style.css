@@ -9,6 +9,10 @@ h1 {
   font-weight: 900;
   font-size: 50px;
 }
+h3 {
+  font-weight: 100;
+  font-size: 20px;
+}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -104,6 +108,13 @@ button {
   border-radius: 3px;
 }
 
+#cp_btn:hover {
+  -webkit-box-shadow: -3px 2px 30px 1px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: -3px 2px 30px 1px rgba(0, 0, 0, 0.63);
+  box-shadow: -3px 2px 30px 1px rgba(0, 0, 0, 0.63);
+  transition: all 0.5s;
+  color: black;
+}
 .button {
   border-radius: 4px;
   background-color: #f4511e;
@@ -111,7 +122,7 @@ button {
   color: #ffffff;
   text-align: center;
   font-size: 28px;
-  width: 200px;
+  width: 140px;
   padding: 5px;
   transition: all 0.5s;
   cursor: pointer;
@@ -142,6 +153,18 @@ button {
 .button:hover span:after {
   opacity: 1;
   right: 0;
+}
+
+.couponCardbox {
+  width: 96%;
+  border: #bdbdbd 1px;
+  border-radius: 5px;
+  box-shadow: 2px 3px 2px #888888;
+  margin: 30px auto;
+  clear: both;
+  padding: 5px;
+  font-size: 15px;
+  background: #5cdb94;
 }
 
 @media screen and (max-width: 600px) {
