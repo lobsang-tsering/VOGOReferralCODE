@@ -62,7 +62,7 @@ h1 {
   line-height: 1.6;
 }
 
-#titleDescription {
+.titleDescription {
   color: #05396b;
   font-weight: 700;
   background: #5cdb94;
