@@ -443,16 +443,28 @@ button {
   }
   .offTitle {
     font-size: 20px;
+    padding: 3px;
+    width: 25%;
   }
   .off-card-header {
-    width: 80%;
+    width: 60%;
+    margin: 5px 0px;
+    font-size: 8px;
+    text-align: end;
+  }
+  .sharing {
+    display: none;
   }
   .offer-header {
-    width: 80%;
-    font-size: 13px;
+    width: 64%;
+    font-size: 12px;
   }
 
   .couponsTitle {
     width: 60%;
+    padding: 1px;
+  }
+  .coupon {
+    font-size: 10px;
   }
 }
