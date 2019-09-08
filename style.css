@@ -400,7 +400,7 @@ button {
 @media screen and (max-width: 600px) {
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .topnav a:not(:first-child) {
     display: none;
   }
