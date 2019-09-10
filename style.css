@@ -24,6 +24,25 @@ h3 {
   font-size: 2vw;
 }
 
+.titleDescription ol a {
+  color: black;
+  background-image: linear-gradient(to bottom, transparent 83%, #ffff00 0);
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size 0.4s ease;
+}
+.titleDescription ol a:hover {
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+
+#content {
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
