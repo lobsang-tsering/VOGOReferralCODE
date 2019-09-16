@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>http://walletbees.in/</loc>
-  <lastmod>2019-09-07T11:21:48+00:00</lastmod>
-</url>
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
-
+  <url>
+       <loc>http://walletbees.in/</loc>
+       <lastmod>2019-09-16T05:38:03+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>http://walletbees.in/index.html</loc>
+       <lastmod>2019-09-16T05:38:03+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>http://walletbees.in/VOGO-referral-code-coupons-earn.html</loc>
+       <lastmod>2019-09-16T05:38:03+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>http://walletbees.in/googlePayTEZreferralCode.html</loc>
+       <lastmod>2019-09-16T05:38:03+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
 </urlset>
